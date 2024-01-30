@@ -1,1 +1,6 @@
-# mcis6273-f24-datamining
+Zotero Username :  ramesh3239
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a porta ante, id porttitor massa. Sed elementum erat vitae auctor efficitur. Nunc viverra, arcu eu tempus pellentesque, diam lorem elementum ligula, sit amet gravida nibh ante eget felis. In ullamcorper interdum nisi, in blandit justo luctus id. Nulla quis felis ligula. Vestibulum vitae justo vel libero consequat lacinia. Ut elit sem, sagittis eu finibus id, dignissim et est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Ut sed sem erat. Aenean hendrerit, dui nec iaculis tempus, ipsum lorem porttitor nunc, id maximus velit augue eu sem. Aliquam cursus viverra ipsum, et tincidunt urna mollis quis. Sed rutrum tellus et nunc faucibus, quis cursus purus porttitor. Phasellus porta, elit et porttitor auctor, leo ex blandit turpis, at aliquam nibh lectus quis nisl. Aenean fermentum sollicitudin dui lacinia egestas. Morbi cursus, tellus eu pulvinar scelerisque, turpis dolor sodales sem, ut porta tortor lectus nec ante. Etiam in ligula diam. Fusce nec pulvinar quam.
+
+Aenean ut odio lorem. Aenean lobortis vulputate risus vitae porttitor. Pellentesque vulputate nibh id condimentum congue. Donec dictum consectetur justo, nec suscipit lectus placerat id. Nam in diam quam. Nullam sollicitudin nibh quis porta condimentum. Sed quis nulla a eros maximus accumsan.
